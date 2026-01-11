@@ -1,0 +1,25 @@
+[
+  { "id": "Shinagawa", "name": "品川駅", "lat": 35.630168, "lon": 139.740093 },
+  { "id": "Shimbashi", "name": "新橋駅", "lat": 35.666438, "lon": 139.758179 },
+  { "id": "Hamamatsucho", "name": "浜松町駅", "lat": 35.655045, "lon": 139.757148 },
+  { "id": "Tamachi", "name": "田町駅", "lat": 35.645207, "lon": 139.744236 },
+  { "id": "TakanawaGateway", "name": "高輪ゲートウェイ駅", "lat": 35.630973, "lon": 139.740147 },
+
+  { "id": "Akasaka", "name": "赤坂駅", "lat": 35.674161, "lon": 139.737421 },
+  { "id": "AkasakaMitsuke", "name": "赤坂見附駅", "lat": 35.675809, "lon": 139.737619 },
+  { "id": "AoyamaItchome", "name": "青山一丁目駅", "lat": 35.672815, "lon": 139.723667 },
+  { "id": "AzabuJuban", "name": "麻布十番駅", "lat": 35.655005, "lon": 139.729463 },
+  { "id": "GaienMae", "name": "外苑前駅", "lat": 35.669673, "lon": 139.712460 },
+
+  { "id": "Hiroo", "name": "広尾駅", "lat": 35.653669, "lon": 139.712972 },
+  { "id": "Kamiyacho", "name": "神谷町駅", "lat": 35.661348, "lon": 139.743151 },
+  { "id": "Roppongi", "name": "六本木駅", "lat": 35.660124, "lon": 139.729229 },
+  { "id": "RoppongiIchome", "name": "六本木一丁目駅", "lat": 35.667075, "lon": 139.731231 },
+  { "id": "ToranomonHills", "name": "虎ノ門ヒルズ駅", "lat": 35.666152, "lon": 139.749778 },
+
+  { "id": "Daimon", "name": "大門駅", "lat": 35.655154, "lon": 139.754846 },
+  { "id": "Mita", "name": "三田駅", "lat": 35.645594, "lon": 139.741237 },
+  { "id": "Onarimon", "name": "御成門駅", "lat": 35.651677, "lon": 139.753022 },
+  { "id": "Shirokanedai", "name": "白金台駅", "lat": 35.628222, "lon": 139.723582 },
+  { "id": "Takanawadai", "name": "高輪台駅", "lat": 35.628559, "lon": 139.734483 }
+]
