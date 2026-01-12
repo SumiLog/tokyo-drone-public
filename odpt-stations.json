@@ -1,10 +1,4 @@
 [
-  { "id": "Shinagawa", "name": "品川駅", "lat": 35.630168, "lon": 139.740093 },
-  { "id": "Shimbashi", "name": "新橋駅", "lat": 35.666438, "lon": 139.758179 },
-  { "id": "Hamamatsucho", "name": "浜松町駅", "lat": 35.655045, "lon": 139.757148 },
-  { "id": "Tamachi", "name": "田町駅", "lat": 35.645207, "lon": 139.744236 },
-  { "id": "TakanawaGateway", "name": "高輪ゲートウェイ駅", "lat": 35.630973, "lon": 139.740147 },
-
   { "id": "Akasaka", "name": "赤坂駅", "lat": 35.674161, "lon": 139.737421 },
   { "id": "AkasakaMitsuke", "name": "赤坂見附駅", "lat": 35.675809, "lon": 139.737619 },
   { "id": "AoyamaItchome", "name": "青山一丁目駅", "lat": 35.672815, "lon": 139.723667 },
